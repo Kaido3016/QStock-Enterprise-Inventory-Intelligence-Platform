@@ -1,4 +1,4 @@
-# QStock — Enterprise Inventory Intelligence Platform
+# QStock — Enterprise Inventory Intelligence Platform 
 
 > **Production-oriented AI engineering platform for natural-language access to structured inventory data, secure NL→SQL, operational workflows, and measurable AI reliability.**
 
