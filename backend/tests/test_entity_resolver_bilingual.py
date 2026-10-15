@@ -1,8 +1,8 @@
 """Regression tests for bilingual QStock inventory item resolution."""
 
-from src.ai.entity_resolver import aliases_for_tests, resolve_item
-
 import pytest
+
+from src.ai.entity_resolver import aliases_for_tests, resolve_item
 
 
 # One natural English name for every canonical inventory name in the supplied
